@@ -1,8 +1,6 @@
 
 **Hello i am sumanth
-welcome to my profile.
-
-Here are some ideas to get you started:
+welcome to my Git HUB profile.
 
 - 🔭 I’m currently trainee at technical Hub.
 - 🌱 I’m currently learning c language...
