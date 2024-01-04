@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 My Skills
 -C programming
 - Problem Solving
-Connect with me
+**Connect with me
 -linkedin:-Sumanth Reddy T  
