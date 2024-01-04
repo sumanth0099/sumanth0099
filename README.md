@@ -1,9 +1,4 @@
-# Hello, I'm Sumanth
-welcome to my GitHub profile 
--i am passonate about learning and 
--explaining programming language
 
-<!--
 **sumanth0099/sumanth0099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
