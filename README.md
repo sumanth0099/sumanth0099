@@ -7,7 +7,7 @@ welcome to my Git HUB profile.
 
 My Skills
 
--C programming
+- c programming
 - Problem Solving
 
 
