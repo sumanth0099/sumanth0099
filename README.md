@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Tetala Sumanth Reddt👋
 
-<!--
-**sumanth0099/sumanth0099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! I’m passionate about problem-solving in Java, skilled in C, and familiar with Oracle SQL and the MERN stack. I enjoy learning new things, teaching, and building projects with MERN.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** Java, C, SQL  
+- **Web Development:** MERN Stack  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+- Learning new technologies  
+- Building MERN stack projects  
+- Problem-solving challenges  
+
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/sumanth-reddy-tetala-359232291/)  
+- [Email](mailto:youremail@example.com)
