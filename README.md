@@ -446,7 +446,7 @@ Fetches random dog images from a public API on button click.
 
 <div align="center">
 
-| 🚧 Building | 📚 Learning | 🎯 2025 Goals | 💡 Exploring Next |
+| 🚧 Building | 📚 Learning | 🎯 2026 Goals | 💡 Exploring Next |
 |:-----------:|:-----------:|:-------------:|:-----------------:|
 | Full stack apps with Next.js + Node.js | Advanced React patterns & performance | Land a SDE Internship | TypeScript |
 | REST APIs with Express + PostgreSQL | DB optimization with PostgreSQL | Contribute to open source | Docker & DevOps |
