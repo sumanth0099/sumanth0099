@@ -166,6 +166,13 @@
 <img alt="3D contribution profile" src="https://raw.githubusercontent.com/sumanth0099/sumanth0099/output/profile-3d-contrib/profile-night-rainbow.svg" width="96%"/>
 </div>
 
+<br/>
+
+<!-- 3D Contribution Profile Animated -->
+<div align="center">
+<img alt="3D contribution profile animated" src="https://raw.githubusercontent.com/sumanth0099/sumanth0099/output/profile-3d-contrib/profile-green-animate.svg" width="96%"/>
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ████████████████████████████████████████████████████████ -->
@@ -480,8 +487,6 @@ Fetches random dog images from a public API on button click.
 [![Gmail](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tetalasumanthreddy@gmail.com)
 
 <br/><br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=sumanth0099&style=for-the-badge&color=58a6ff)](https://github.com/sumanth0099)
 
 </div>
 

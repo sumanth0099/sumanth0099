@@ -15,11 +15,19 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate 3D contribution profile
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: sumanth0099
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Prepare 3D assets for output branch
+        run: |
+          mkdir -p dist
+          cp -r profile-3d-contrib dist/
 
       - name: Push 3D profile to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
