@@ -163,14 +163,7 @@
 
 <!-- 3D Contribution Profile -->
 <div align="center">
-<img alt="3D contribution profile" src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg" width="96%"/>
-</div>
-
-<br/>
-
-<!-- 3D Contribution Profile Animated -->
-<div align="center">
-<img alt="3D contribution profile animated" src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-green-animate.svg" width="96%"/>
+<img alt="3D contribution profile" src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-gitblock.svg" width="96%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
