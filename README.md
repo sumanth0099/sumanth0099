@@ -30,7 +30,7 @@
 </p>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=sumanth0099&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 
 </div>
 
@@ -113,20 +113,15 @@ const developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7eb8f7&icon_color=7eb8f7&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7eb8f7&text_color=c9d1d9&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumanth0099&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7eb8f7&icon_color=7eb8f7&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanth0099&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7eb8f7&text_color=c9d1d9&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=7eb8f7&ring=7eb8f7&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=7eb8f7&sideLabels=7eb8f7&dates=8b949e" width="60%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&bg_color=0d1117&color=7eb8f7&line=7eb8f7&point=ffffff&area=true&hide_border=true" width="95%" />
+<!-- Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumanth0099&theme=tokyo-night&bg_color=0d1117&color=7eb8f7&line=7eb8f7&point=ffffff&area=true&hide_border=true" width="95%" />
 
 </div>
 
@@ -197,7 +192,7 @@ const developer = {
 
 ## 🌟 Featured Projects
 
-> ⚡ Projects will be pinned here — currently building. Watch this space!
+> ⚡ Projects will be pinned below — currently building. Watch this space!
 
 | Project | Stack | Status | Link |
 |---------|-------|--------|------|
