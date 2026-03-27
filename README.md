@@ -139,7 +139,7 @@
 <!--                   GITHUB STATS                         -->
 <!-- ████████████████████████████████████████████████████████ -->
 
-## ✨ GitHub Activity Animations
+## ✨ GitHub Activity
 
 <br/>
 
