@@ -1,25 +1,24 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      HEADER BANNER                        -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ████████████████████████████████████████████████████████ -->
+<!--                    ANIMATED HEADER                      -->
+<!-- ████████████████████████████████████████████████████████ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Sumanth%20Reddy%20Tetala&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20CSE%20Student%20%7C%20Builder%20%F0%9F%9A%80&descAlignY=56&descSize=19" width="100%"/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    TYPING ANIMATION                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ████████████████████████████████████████████████████████ -->
+<!--                   TYPING ANIMATION                      -->
+<!-- ████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&random=false&width=750&height=60&lines=👋+Hey!+I'm+Sumanth+Reddy+Tetala;💻+Full+Stack+Developer+in+Progress;⚡+React+•+Next.js+•+Node.js+•+PostgreSQL;🔥+Building+Real-World+Projects+That+Matter;🏆+LeetCode+200%2B+%7C+CodeChef+200%2B+%7C+GFG+100%2B;🎓+ACET+CSE+%7C+Graduating+2027;🤝+Open+to+SDE+Internships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&random=false&width=800&height=60&lines=👋+Hey!+I'm+Sumanth+Reddy+Tetala;💻+Full+Stack+Developer+in+Progress;⚡+React+•+Next.js+•+Node.js+•+PostgreSQL;🔥+Building+Real-World+Projects+That+Matter;🏆+LeetCode+200%2B+%7C+CodeChef+200%2B+%7C+GFG+100%2B;🎓+ACET+CSE+%7C+Graduating+2027;🤝+Open+to+SDE+Internships)](https://git.io/typing-svg)
 
 </div>
 
-<!-- Animated Wave Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    SOCIAL BADGES                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ████████████████████████████████████████████████████████ -->
+<!--                    SOCIAL BADGES                        -->
+<!-- ████████████████████████████████████████████████████████ -->
 
 <div align="center">
 
@@ -27,6 +26,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-seven-murex-znkq4989yp.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumanth0099)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tetalasumanthreddy@gmail.com)
+
+<br/>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tetalasumanthreddy/)
 [![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-%232F8D46.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/sumanthitsme31?tab=activity)
@@ -37,33 +38,33 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       ABOUT ME                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ████████████████████████████████████████████████████████ -->
+<!--                      ABOUT ME                          -->
+<!-- ████████████████████████████████████████████████████████ -->
 
 <br/>
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding GIF" width="370" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding GIF" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 - 🎓 **B.Tech CSE** @ Aditya College of Engineering & Technology — Class of **2027**
 - 🔭 Currently building **real-world full stack projects** from scratch
 - 🌱 Deep-diving into **Next.js**, **PostgreSQL** & modern web architecture
 - 📖 **Continuously learning** new technologies — every day is a step forward
-- 💡 Passionate about **Backend Engineering**, **Scalable Systems** & clean code
+- 💡 Passionate about **Backend Engineering** & **Scalable Systems**
 - 🏆 Solved **200+ problems** on LeetCode & **200+ on CodeChef**
 - 🎯 Actively seeking **SDE Internships** — let's connect!
 - 🤝 Big believer in **Open Source** & **Collaborative** development
 - ☕ Fun fact: Coffee + Code = My kind of productive day
 
-<br/><br/><br/>
+<br/><br/><br/><br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      EDUCATION                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ████████████████████████████████████████████████████████ -->
+<!--                     EDUCATION                          -->
+<!-- ████████████████████████████████████████████████████████ -->
 
 ## 🎓 Education
 
@@ -73,15 +74,15 @@
 |:---|:---|:---:|:---:|
 | Aditya College of Engineering & Technology | B.Tech CSE *(Ongoing)* | 2023 – 2027 | **8.45 CGPA** |
 | Aditya Junior College, Mandapeta | Intermediate (MPC) | 2021 – 2023 | **9.47 CGPA** |
-| TAR School | SSC (10th Class) | 2021 Passout | **9.5 GPA** |
+| TAR School | SSC — 10th Class | 2021 Passout | **9.5 GPA** |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ████████████████████████████████████████████████████████ -->
+<!--                    TECH STACK                          -->
+<!-- ████████████████████████████████████████████████████████ -->
 
 ## 🛠️ Tech Stack
 
@@ -136,9 +137,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ████████████████████████████████████████████████████████ -->
+<!--                   GITHUB STATS                         -->
+<!-- ████████████████████████████████████████████████████████ -->
 
 ## 📊 GitHub Stats
 
@@ -149,15 +150,25 @@
 
 </div>
 
+<br/>
+
+<!-- GitHub Trophies — fully animated, zero setup needed -->
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumanth0099&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sumanth0099&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumanth0099&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="96%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   CODING PROFILES                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ████████████████████████████████████████████████████████ -->
+<!--                  CODING PROFILES                       -->
+<!-- ████████████████████████████████████████████████████████ -->
 
 ## 🏆 Coding Profiles
 
@@ -168,19 +179,21 @@
 | 🟡 [LeetCode](https://leetcode.com/u/tetalasumanthreddy/) | @tetalasumanthreddy | **200+ Problems Solved** |
 | 🟠 [CodeChef](https://www.codechef.com/users/sumanthitsme31) | @sumanthitsme31 | **200+ Problems Solved** |
 | 🟢 [GeeksForGeeks](https://www.geeksforgeeks.org/profile/sumanthitsme31?tab=activity) | @sumanthitsme31 | **100+ Problems Solved** |
-| 🟩 [HackerRank](https://www.hackerrank.com/profile/sumanthitsme31) | @sumanthitsme31 | ⭐⭐⭐ Java • C • SQL \| ⭐ Python |
+| 🟩 [HackerRank](https://www.hackerrank.com/profile/sumanthitsme31) | @sumanthitsme31 | ⭐⭐⭐ Java • C • SQL &nbsp;\|&nbsp; ⭐ Python |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      PROJECTS                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ████████████████████████████████████████████████████████ -->
+<!--                      PROJECTS                          -->
+<!-- ████████████████████████████████████████████████████████ -->
 
 ## 🚀 Projects
 
-### 🔥 Featured / Major Projects
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
+
+### 🔥 Major Projects
 
 <table>
 <tr>
@@ -188,48 +201,48 @@
 
 **🏢 Multi-Tenant SaaS Platform**
 
-Multi-tenant project & task management system with org-level user management, role-based access control, and secure tenant data isolation.
+Multi-tenant project & task management with org-level user management, role-based access control, and secure tenant data isolation.
 
-**Stack:** Node.js • PostgreSQL • React
+`Node.js` `PostgreSQL` `React`
 
-[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sumanth0099/Multi-Tenant-SaaS-Platform-with-Project-Task-Management)
+[![Repo](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sumanth0099/Multi-Tenant-SaaS-Platform-with-Project-Task-Management)
 
 </td>
 <td width="50%" valign="top">
 
 **🎨 Real-Time Collaborative Whiteboard**
 
-Multiple users draw simultaneously with instant cursor sync via WebSockets. Auto-loads last saved state for new users joining.
+Multiple users draw simultaneously. Cursor & drawing sync via WebSockets. Auto-loads last saved state for new users.
 
-**Stack:** Node.js • WebSockets • PostgreSQL
+`Node.js` `WebSockets` `PostgreSQL`
 
-[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sumanth0099/Real-Time-Collaborative-Whiteboard)
-[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://sumanth0099-real-time-collaborative.onrender.com/)
+[![Repo](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sumanth0099/Real-Time-Collaborative-Whiteboard)
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=render&logoColor=white)](https://sumanth0099-real-time-collaborative.onrender.com/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🤖 Prompt Router (AI Assistant)**
+**🤖 Prompt Router — AI Assistant**
 
 Production-ready AI assistant that classifies user intent and routes each message to a specialised expert persona.
 
-**Stack:** Node.js • Express • Groq Llama
+`Node.js` `Express` `Groq Llama`
 
-[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sumanth0099/prompt_Router)
-[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://prompt-router-3r83.onrender.com/)
+[![Repo](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sumanth0099/prompt_Router)
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=render&logoColor=white)](https://prompt-router-3r83.onrender.com/)
 
 </td>
 <td width="50%" valign="top">
 
-**💳 Payment Gateway (Multi-Method)**
+**💳 Payment Gateway (UPI + Card)**
 
-Dockerized Razorpay/Stripe-style payment gateway supporting UPI + Card with merchant dashboard and hosted checkout.
+Dockerized Razorpay/Stripe-style gateway with merchant dashboard, hosted checkout, UPI + Card support.
 
-**Stack:** Node.js • PostgreSQL • React • Docker
+`Node.js` `PostgreSQL` `React` `Docker` `Nginx`
 
-[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sumanth0099/Payment-Gateway-with-Multi-Method-Processing-and-Hosted-Checkout)
+[![Repo](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sumanth0099/Payment-Gateway-with-Multi-Method-Processing-and-Hosted-Checkout)
 
 </td>
 </tr>
@@ -238,49 +251,49 @@ Dockerized Razorpay/Stripe-style payment gateway supporting UPI + Card with merc
 
 **⚡ Async Payment Gateway**
 
-Async payment system with webhook handling, retries with exponential backoff, Bull queue, Redis, and embeddable Checkout SDK.
+Async payment system with webhook handling, exponential backoff retries, Bull queue, and embeddable Checkout SDK.
 
-**Stack:** Node.js • PostgreSQL • Redis • Docker
+`Node.js` `PostgreSQL` `Redis` `Bull` `Docker`
 
-[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sumanth0099/Payment-gateway-async)
+[![Repo](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sumanth0099/Payment-gateway-async)
 
 </td>
 <td width="50%" valign="top">
 
 **📊 My Data Explorer**
 
-High-performance data viz app supporting 50k+ row CSV/JSON uploads with advanced filtering, sorting, aggregation & virtualized tables.
+High-performance data viz supporting 50k+ row CSV/JSON with filtering, sorting, aggregation & virtualized tables.
 
-**Stack:** React • Web Workers • Zustand • Docker
+`React` `Web Workers` `Zustand` `Docker`
 
-[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sumanth0099/my-data-explorer)
-[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://my-data-explorer.vercel.app/)
+[![Repo](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sumanth0099/my-data-explorer)
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://my-data-explorer.vercel.app/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**📝 Document Site (Multi-Language)**
+**📝 Multi-Language Docs Platform**
 
-High-performance multi-language documentation platform with ISR, full-text search via FlexSearch, and Docker containerization.
+High-performance documentation with ISR, full-text search via FlexSearch, i18n, and Docker containerization.
 
-**Stack:** Next.js • next-intl • FlexSearch • Docker
+`Next.js` `next-intl` `FlexSearch` `Docker`
 
-[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sumanth0099/docs-search)
-[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://docs-search-zeta.vercel.app/)
+[![Repo](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sumanth0099/docs-search)
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://docs-search-zeta.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
-**✍️ Blog Platform**
+**✍️ SEO Blog Platform**
 
-Static, SEO-friendly blog platform with MDX support, SSG pre-rendering, fast load times, and modern web best practices.
+Static, SEO-friendly blog with MDX support, SSG pre-rendering for fast load times and better scalability.
 
-**Stack:** Next.js • MDX • SSG
+`Next.js` `MDX` `SSG` `Pages Router`
 
-[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sumanth0099/blogplatform-nextjs-project)
-[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://blogplatform-nextjs-project.vercel.app/)
+[![Repo](https://img.shields.io/badge/Source_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sumanth0099/blogplatform-nextjs-project)
+[![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://blogplatform-nextjs-project.vercel.app/)
 
 </td>
 </tr>
@@ -294,9 +307,9 @@ Static, SEO-friendly blog platform with MDX support, SSG pre-rendering, fast loa
 
 **🧩 Rich Text Editor**
 
-Bold, Italic, Headings, Undo/Redo, Keyboard nav, ARIA, Vitest coverage.
+Bold, Italic, Headings, Undo/Redo history, keyboard nav, ARIA, Vitest coverage.
 
-**Stack:** React • useReducer • Context API
+`React` `useReducer` `Context API` `Vitest`
 
 [![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/sumanth0099/Rich-Text-Editor-Component-with-Advanced-Local-State)
 [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://rich-text-editor-component-with-adv.vercel.app/)
@@ -304,11 +317,11 @@ Bold, Italic, Headings, Undo/Redo, Keyboard nav, ARIA, Vitest coverage.
 </td>
 <td width="33%" valign="top">
 
-**🧩 Productivity Chrome Extension**
+**🔌 Productivity Chrome Extension**
 
 Tab Sessions, Website Blocker, Persistent Notes, Custom New Tab, Data Export, Keyboard Shortcuts.
 
-**Stack:** React • Zustand • Manifest V3
+`React` `Zustand` `Manifest V3`
 
 [![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/sumanth0099/Production-Ready-Chrome-Extension-Productivity-Suite-with-Manifest-V3)
 
@@ -317,9 +330,9 @@ Tab Sessions, Website Blocker, Persistent Notes, Custom New Tab, Data Export, Ke
 
 **📋 Multi-Step Form**
 
-Multi-step registration with validation, localStorage persistence, and smooth transitions.
+Multi-step registration with validation, persistence, and smooth step transitions.
 
-**Stack:** React • React Hook Form • Zod • Framer Motion
+`React` `React Hook Form` `Zod` `Framer Motion`
 
 [![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/sumanth0099/multi-step-form)
 [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://multi-step-form-xi-three.vercel.app/)
@@ -331,71 +344,72 @@ Multi-step registration with validation, localStorage persistence, and smooth tr
 
 **🍽️ Digital Restaurant Menu**
 
-Responsive restaurant menu UI simulating real-world ordering experience.
+Responsive restaurant menu UI simulating a real-world ordering experience.
 
-**Stack:** React.js
+`React.js` `CSS`
 
 [![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/sumanth0099/digital_restaurent_menu)
 
 </td>
 <td width="33%" valign="top">
 
-**🌤️ Weather Monitor**
+**🖼️ Image Gallery**
 
-Real-time weather app with API integration showing temperature, humidity & conditions.
+Searches and displays images from a public API based on keyword input.
 
-**Stack:** JavaScript • Weather API
+`JavaScript` `Public API`
 
-[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/sumanth0099/my-data-explorer)
+[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/sumanth0099/Image_Gallery)
 
 </td>
 <td width="33%" valign="top">
 
-**🖼️ Image Gallery**
+**🔑 Password Generator**
 
-Searches and displays images from public API based on user keyword input.
+Generates random passwords with user-specified length & characters. One-click copy button.
 
-**Stack:** JavaScript • Public API
+`HTML` `CSS` `JavaScript`
 
-[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/sumanth0099/Image_Gallery)
+[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/sumanth0099/Password_Generator)
+[![Live](https://img.shields.io/badge/Live-4CAF50?style=flat-square&logo=github&logoColor=white)](https://sumanth0099.github.io/Password_Generator/Generate.html)
 
 </td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 
-**🔑 Password Generator**
-
-Generates random passwords with user-specified length & characters. Includes copy button.
-
-**Stack:** HTML • CSS • JavaScript
-
-[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/sumanth0099/Password_Generator)
-[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=github&logoColor=white)](https://sumanth0099.github.io/Password_Generator/Generate.html)
-
-</td>
-<td width="33%" valign="top">
-
 **😂 Emoji Flow**
 
-Cursor trail of random emojis that follow mouse movement using event listeners.
+Cursor trail of random emojis following mouse movement using DOM event listeners.
 
-**Stack:** HTML • JavaScript
+`HTML` `JavaScript` `DOM`
 
 [![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/sumanth0099/Emoji_Flow)
-[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=github&logoColor=white)](https://sumanth0099.github.io/Emoji_Flow/emoji_.html)
+[![Live](https://img.shields.io/badge/Live-4CAF50?style=flat-square&logo=github&logoColor=white)](https://sumanth0099.github.io/Emoji_Flow/emoji_.html)
 
 </td>
 <td width="33%" valign="top">
 
 **🎮 Catch the Slide**
 
-Fun game where a button runs away from the cursor — catch it to win!
+A fun game — the button runs away from your cursor. Click it perfectly to win!
 
-**Stack:** HTML • CSS • JavaScript
+`HTML` `CSS` `JavaScript`
 
 [![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/sumanth0099/Catch_the_slide)
-[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=github&logoColor=white)](https://sumanth0099.github.io/Catch_the_slide/Random_Position.html)
+[![Live](https://img.shields.io/badge/Live-4CAF50?style=flat-square&logo=github&logoColor=white)](https://sumanth0099.github.io/Catch_the_slide/Random_Position.html)
+
+</td>
+<td width="33%" valign="top">
+
+**🐶 Random Dog Image**
+
+Fetches random dog images from a public API on button click.
+
+`HTML` `JavaScript` `API`
+
+[![Repo](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github)](https://github.com/sumanth0099/Random_picture_of_dog)
+[![Live](https://img.shields.io/badge/Live-4CAF50?style=flat-square&logo=github&logoColor=white)](https://sumanth0099.github.io/Random_picture_of_dog/Random_Dog.html)
 
 </td>
 </tr>
@@ -403,9 +417,9 @@ Fun game where a button runs away from the cursor — catch it to win!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   CERTIFICATIONS                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ████████████████████████████████████████████████████████ -->
+<!--                  CERTIFICATIONS                        -->
+<!-- ████████████████████████████████████████████████████████ -->
 
 ## 🏅 Certifications
 
@@ -422,16 +436,16 @@ Fun game where a button runs away from the cursor — catch it to win!
 | CLA — Programming Essentials in C | Cisco / C Institute | [View](https://drive.google.com/file/d/1GsX5rlD-rt1mEMslKwkUz2v2IXfinIfY/view?usp=sharing) |
 | Operating Systems Basics | Cisco | [View](https://drive.google.com/file/d/13aj6n0qKaVDF-eqNzVgshjc4SzypbrsK/view?usp=drive_link) |
 | Introduction to Computer Networking | Simplilearn SkillUp | [View](https://drive.google.com/file/d/1oWLVx7tex7r2PDt9RJvqdLKxaM0L8z_k/view?usp=drive_link) |
-| 500 Difficulty Rating — Practice Problems | CodeChef (PRO) | [View](https://drive.google.com/file/d/17csln671JmjisflxsaZWJq0zUHnWBxx-/view?usp=sharing) |
+| 500 Difficulty Rating — Practice Problems Completion | CodeChef (PRO) | [View](https://drive.google.com/file/d/17csln671JmjisflxsaZWJq0zUHnWBxx-/view?usp=sharing) |
 | Summer Online Internship | AP State Skill Development Corporation | [View](https://drive.google.com/file/d/1ISXoBIDSXLlJYxpiNbo2Grtu5oac91TM/view?usp=sharing) |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   CURRENT FOCUS                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ████████████████████████████████████████████████████████ -->
+<!--                  CURRENT FOCUS                         -->
+<!-- ████████████████████████████████████████████████████████ -->
 
 ## 🔥 Current Focus
 
@@ -440,16 +454,16 @@ Fun game where a button runs away from the cursor — catch it to win!
 | 🚧 Building | 📚 Learning | 🎯 2025 Goals | 💡 Exploring Next |
 |:-----------:|:-----------:|:-------------:|:-----------------:|
 | Full stack apps with Next.js + Node.js | Advanced React patterns & performance | Land a SDE Internship | TypeScript |
-| REST APIs with Express + PostgreSQL | Database optimization with PostgreSQL | Contribute to open source | Docker & DevOps |
+| REST APIs with Express + PostgreSQL | DB optimization with PostgreSQL | Contribute to open source | Docker & DevOps |
 | Real-world backend services | Clean architecture & best practices | Ship 3+ production projects | Redis for caching |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   CONNECT SECTION                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ████████████████████████████████████████████████████████ -->
+<!--                  CONNECT SECTION                       -->
+<!-- ████████████████████████████████████████████████████████ -->
 
 ## 📫 Let's Connect
 
@@ -467,20 +481,13 @@ Fun game where a button runs away from the cursor — catch it to win!
 
 [![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<br/>
-
-<!-- Snake — uses Platane/snk which writes to gh-pages style branch, no script issues -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sumanth0099/sumanth0099/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumanth0099/sumanth0099/output/github-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sumanth0099/sumanth0099/output/github-snake-dark.svg" width="90%">
-</picture>
-
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    FOOTER WAVE                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ████████████████████████████████████████████████████████ -->
+<!--                   FOOTER WAVE                          -->
+<!-- ████████████████████████████████████████████████████████ -->
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer&animation=twinkling" width="100%"/>
 
