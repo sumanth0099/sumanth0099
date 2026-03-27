@@ -163,14 +163,14 @@
 
 <!-- 3D Contribution Profile -->
 <div align="center">
-<img alt="3D contribution profile" src="https://raw.githubusercontent.com/sumanth0099/sumanth0099/output/profile-3d-contrib/profile-night-rainbow.svg" width="96%"/>
+<img alt="3D contribution profile" src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg" width="96%"/>
 </div>
 
 <br/>
 
 <!-- 3D Contribution Profile Animated -->
 <div align="center">
-<img alt="3D contribution profile animated" src="https://raw.githubusercontent.com/sumanth0099/sumanth0099/output/profile-3d-contrib/profile-green-animate.svg" width="96%"/>
+<img alt="3D contribution profile animated" src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-green-animate.svg" width="96%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -487,6 +487,8 @@ Fetches random dog images from a public API on button click.
 [![Gmail](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tetalasumanthreddy@gmail.com)
 
 <br/><br/>
+
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
