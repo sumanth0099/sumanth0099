@@ -9,9 +9,7 @@
 <!-- ████████████████████████████████████████████████████████ -->
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&height=60&lines=Hey%2C+I%27m+Sumanth+Reddy+Tetala;Full+Stack+Developer+in+Progress;React+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL;Building+real-world+projects+that+matter;Open+to+SDE+Internship+opportunities)](https://git.io/typing-svg)
-
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:58a6ff,100:1f6feb&height=48&section=header&text=Full%20Stack%20Developer%20in%20Progress&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -141,28 +139,7 @@
 <!--                   GITHUB STATS                         -->
 <!-- ████████████████████████████████████████████████████████ -->
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumanth0099&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanth0099&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&cache_seconds=1800"/>
-
-</div>
-
-<br/>
-
-<!-- GitHub Trophies — fully animated, zero setup needed -->
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sumanth0099&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&cache_seconds=86400" width="100%"/>
-</div>
-
-<br/>
-
-<!-- Activity Graph -->
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumanth0099&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&radius=8" width="96%"/>
-</div>
+## 📊 Contribution Animations
 
 <br/>
 
@@ -173,6 +150,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumanth0099/sumanth0099/output/github-snake.svg" />
   <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/sumanth0099/sumanth0099/output/github-snake.svg" width="96%"/>
 </picture>
+</div>
+
+<br/>
+
+<!-- Snake GIF Animation -->
+<div align="center">
+<img alt="GitHub contribution snake gif" src="https://raw.githubusercontent.com/sumanth0099/sumanth0099/output/github-snake.gif" width="96%"/>
 </div>
 
 <br/>
