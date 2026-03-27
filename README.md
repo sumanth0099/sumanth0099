@@ -4,7 +4,7 @@
 <!-- Typing Animation -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&random=false&width=700&height=60&lines=👋+Hey!+I'm+Sumanth+Reddy;💻+Full+Stack+Dev+in+Progress;⚡+React+•+Next.js+•+Node.js+•+PostgreSQL;🔥+Building+Real-World+Projects;🎓+ACET+CSE+%7C+Graduating+2027;🤝+Open+to+SDE+Internships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&random=false&width=700&height=60&lines=👋+Hey!+I'm+Sumanth+Reddy;💻+Full+Stack+Dev+in+Progress;⚡+React+•+Next.js+•+Node.js+•+PostgreSQL;🔥+Building+Real-World+Projects;🎓+ACET+CSE+%7C+Graduating+2027;🤝+Open+to+SDE+Internships)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,31 +23,24 @@
 
 </div>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=sumanth0099&label=Profile+Views&color=58a6ff&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/sumanth0099?label=Followers&style=flat-square&color=58a6ff)
-
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🎓 **B.Tech CSE** @ Aditya College of Engineering & Technology
-- 📅 Graduating **2027** | Currently in **3rd Year**
-- 🔭 Currently building **real-world full stack projects**
-- 🌱 Deep-diving into **Next.js**, **PostgreSQL** & **System Design**
+- 🎓 **B.Tech CSE** @ Aditya College of Engineering & Technology — Class of **2027**
+- 🔭 Currently building **real-world full stack projects** from scratch
+- 🌱 Deep-diving into **Next.js** & **PostgreSQL**
+- 📖 **Continuously learning** new technologies and evolving every single day
 - 💡 Passionate about **Backend Engineering** & **Scalable Systems**
-- 🎯 Targeting **SDE Internships** — open to opportunities!
-- 🤝 Love **Open Source** & **Collaborative** projects
-- ⚡ Fun fact: I debug with `console.log` and I'm not ashamed 😄
+- 🎯 Actively seeking **SDE Internships** — let's connect!
+- 🤝 Big believer in **Open Source** & **Collaborative** development
+- ☕ Fun fact: Coffee + Code = My kind of productive day
 
-<br clear="right"/>
+<br/><br/><br/><br/>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -87,7 +80,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Oracle SQL](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Oracle DB](https://img.shields.io/badge/Oracle_Database-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
@@ -123,7 +116,9 @@
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-@tetalasumanthreddy-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/tetalasumanthreddy/)
+&nbsp;
 [![GFG](https://img.shields.io/badge/GFG-@sumanthitsme31-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/sumanthitsme31?tab=activity)
+&nbsp;
 [![HackerRank](https://img.shields.io/badge/HackerRank-@sumanthitsme31-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/sumanthitsme31)
 
 </div>
@@ -136,9 +131,9 @@
 
 | 🚧 Building | 📚 Learning | 🎯 2025 Goals | 💡 Exploring Next |
 |:-----------:|:-----------:|:-------------:|:-----------------:|
-| Full stack apps with Next.js + Node.js | Advanced React patterns | Land a SDE Internship | TypeScript |
-| REST APIs with Express + PostgreSQL | DB optimization with PostgreSQL | Contribute to open source | Docker & DevOps basics |
-| System design fundamentals | Clean architecture principles | Ship 3+ production projects | Redis for caching |
+| Full stack apps with Next.js + Node.js | Advanced React patterns & performance | Land a SDE Internship | TypeScript |
+| REST APIs with Express + PostgreSQL | Database optimization with PostgreSQL | Contribute to open source | Docker & DevOps basics |
+| Real-world backend services | Clean architecture & best practices | Ship 3+ production projects | Redis for caching |
 
 </div>
 
@@ -160,12 +155,8 @@
 
 <br/>
 
-<!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sumanth0099/sumanth0099/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumanth0099/sumanth0099/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/sumanth0099/sumanth0099/output/github-snake-dark.svg" width="95%"/>
-</picture>
+<!-- Snake animation — rendered from GitHub Actions output branch -->
+<img src="https://raw.githubusercontent.com/sumanth0099/sumanth0099/output/github-snake-dark.svg" alt="snake animation" width="95%"/>
 
 </div>
 
