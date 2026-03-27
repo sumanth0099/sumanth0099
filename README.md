@@ -10,7 +10,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&random=false&width=800&height=60&lines=👋+Hey!+I'm+Sumanth+Reddy+Tetala;💻+Full+Stack+Developer+in+Progress;⚡+React+•+Next.js+•+Node.js+•+PostgreSQL;🔥+Building+Real-World+Projects+That+Matter;🏆+LeetCode+200%2B+%7C+CodeChef+200%2B+%7C+GFG+100%2B;🎓+ACET+CSE+%7C+Graduating+2027;🤝+Open+to+SDE+Internships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&height=60&lines=Hey%2C+I%27m+Sumanth+Reddy+Tetala;Full+Stack+Developer+in+Progress;React+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL;Building+real-world+projects+that+matter;Open+to+SDE+Internship+opportunities)](https://git.io/typing-svg)
 
 </div>
 
@@ -162,6 +162,17 @@
 <!-- Activity Graph -->
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sumanth0099&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="96%"/>
+</div>
+
+<br/>
+
+<!-- Contribution Snake -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sumanth0099/sumanth0099/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumanth0099/sumanth0099/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/sumanth0099/sumanth0099/output/github-snake.svg" width="96%"/>
+</picture>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
